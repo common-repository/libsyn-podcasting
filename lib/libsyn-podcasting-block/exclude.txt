@@ -1,0 +1,5 @@
+libsyn-podcasting/lib/libsyn-podcasting-block\src/
+libsyn-podcasting/lib/libsyn-podcasting-block\node_modules/
+libsyn-podcasting/lib/libsyn-podcasting-block\package/
+libsyn-podcasting/lib/libsyn-podcasting-block\README/
+libsyn-podcasting/lib/libsyn-podcasting-block\plugin/

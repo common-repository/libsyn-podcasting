@@ -1,0 +1,29 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+ // Colors.
+ $black: rgb(41, 41, 41);
+ $white: #f4f4f4;
+ $gray: #dedede;
+ $green: #bada55;
+ $red: orangered;
+
+
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+
+.wp-block-create-block-libsyn-podcasting-block  {
+  background: $white;
+  border: 0.2rem solid $black;
+  color: $black;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 2rem;
+}
